@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT wallet_4654.wsgi:application
